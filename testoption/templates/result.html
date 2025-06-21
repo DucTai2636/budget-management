@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <form action="/tinh_tien" method="POST">
+        <div>
+            <label for="total">Total:</label>
+            <input type="number" id="total" name="total" required>
+        </div>
+        <div>
+            <label for="food">Food:</label>
+            <input type="number" id="food" name="food" required>
+        </div>
+        <div>
+            <label for="bar">Bar:</label>
+            <input type="number" id="bar" name="bar" required>
+        </div>
+        
+        <button type="submit">Tính tiền</button>
+    </form>
+    <p>Saving: {{ remaining }} VND</p>
+    <button type="submit"><p>Save{{ save }}</p></button>
+
+    
+
+</body>
+</html>

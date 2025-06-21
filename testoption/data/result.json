@@ -1,0 +1,80 @@
+[
+    {
+        "total": 312,
+        "food": 22,
+        "bar": 1,
+        "remaining": 289
+    },
+    {
+        "total": 321,
+        "food": 11,
+        "bar": 223,
+        "remaining": 87
+    },
+    {
+        "total": 321,
+        "food": 11,
+        "bar": 223,
+        "remaining": 87
+    },
+    {
+        "total": 123,
+        "food": 32,
+        "bar": 21,
+        "remaining": 70
+    },
+    {
+        "total": 312,
+        "food": 32,
+        "bar": 11,
+        "remaining": 269
+    },
+    {
+        "total": 312,
+        "food": 32,
+        "bar": 11,
+        "remaining": 269
+    },
+    {
+        "total": 212,
+        "food": 32,
+        "bar": 11,
+        "remaining": 169
+    },
+    {
+        "total": 212,
+        "food": 32,
+        "bar": 11,
+        "remaining": 169
+    },
+    {
+        "total": 123,
+        "food": 22,
+        "bar": 32,
+        "remaining": 69
+    },
+    {
+        "total": 123,
+        "food": 32,
+        "bar": 12,
+        "remaining": 79
+    },
+    {
+        "total": 123,
+        "food": 32,
+        "bar": 22,
+        "remaining": 69
+    },
+    {
+        "total": 123,
+        "food": 12,
+        "bar": 32,
+        "remaining": 79
+    },
+    {
+        "total": 312,
+        "food": 32,
+        "bar": 22,
+        "remaining": 258
+    }
+]
